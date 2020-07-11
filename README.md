@@ -13,3 +13,9 @@ Get Tour of Heroes tutoarial source code
 ## Step 1 
 Add Angular Elements dependency
 Fire up console and run `ng add @angular/elements`
+
+## Step 2 
+Hardcoded hero universe web component
+- Introduce hero universe indicator component
+- Add Custom Element schema ( schemas: [CUSTOM_ELEMENTS_SCHEMA] )
+- hardcode into heroes component
