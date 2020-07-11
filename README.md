@@ -1,2 +1,3 @@
 # sam-web-component-plugins
-Showcasing client side plugin architecture
+
+Extend Tour Of Heroes tutorial Angular application by introducing a client side plugin architecture using web components
