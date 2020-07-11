@@ -9,3 +9,7 @@ This is prototype, assembled for a [Scotland's Angular Meetup talk](https://www.
 
 ## Step 0
 Get Tour of Heroes tutoarial source code
+
+## Step 1 
+Add Angular Elements dependency
+Fire up console and run `ng add @angular/elements`
