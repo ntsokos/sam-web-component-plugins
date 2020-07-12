@@ -14,6 +14,7 @@ import { HeroDetailComponent } from './hero-detail/hero-detail.component';
 import { HeroesComponent } from './heroes/heroes.component';
 import { HeroSearchComponent } from './hero-search/hero-search.component';
 import { MessagesComponent } from './messages/messages.component';
+import { HeroPluginHostComponent } from './hero-plugin-host/hero-plugin-host.component';
 
 @NgModule({
   imports: [
@@ -35,9 +36,9 @@ import { MessagesComponent } from './messages/messages.component';
     HeroesComponent,
     HeroDetailComponent,
     MessagesComponent,
-    HeroSearchComponent
+    HeroSearchComponent,
+    HeroPluginHostComponent
   ],
   bootstrap: [AppComponent],
-  schemas: [CUSTOM_ELEMENTS_SCHEMA]
 })
 export class AppModule { }

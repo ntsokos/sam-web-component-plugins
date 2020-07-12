@@ -19,3 +19,9 @@ Hardcoded hero universe web component
 - Introduce hero universe indicator component
 - Add Custom Element schema ( schemas: [CUSTOM_ELEMENTS_SCHEMA] )
 - hardcode into heroes component
+
+## Step 3
+client side plugin infrustructure
+- Declare plugins through pluginHeroes global variable
+- Dynamically load plugins through a heroes host component
+- Remove Custom Elements schema
