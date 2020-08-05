@@ -6,6 +6,8 @@ It is based on the well-known tour of heroes tutorial, which can be found on [An
 
 This is prototype, assembled for a [Scotland's Angular Meetup talk](https://www.meetup.com/Scotlands-Angular-Meetup), it is not production-ready code and should not be used as such.
 
+[![Watch the video](https://img.youtube.com/vi/CjbX5r5gvvo/maxresdefault.jpg)](https://youtu.be/CjbX5r5gvvo)
+
 
 ## Step 0
 Get Tour of Heroes tutoarial source code
